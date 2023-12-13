@@ -1,0 +1,12 @@
+	File System Counters
+		FILE: Number of bytes read=1826
+		FILE: Number of bytes written=240811
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1587
+		HDFS: Number of bytes written=1344
+		HDFS: Number of read operations=6
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=2
+	Job Counters 
